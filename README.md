@@ -1,8 +1,12 @@
 # Yaru-tokyonight gtk theme
 
-Based on from [the official Ubuntu yaru theme suite](https://github.com/ubuntu/yaru.git).
-For now, includes only a theme for gtk. Colors based on
+Based on [the official Ubuntu yaru theme suite](https://github.com/ubuntu/yaru.git).
+For now, includes only a theme for gtk3/4. Color palette is based on
 [folke's tokynonight.nvim colorscheme](https://github.com/folke/tokyonight.nvim).
+
+## Installation
+
+Follow and adapt the instructions in [CONTRIBUTING.md](./CONTRIBUTING.md) to build the theme and install it.
 
 # Ubuntu Yaru theme suite
 
