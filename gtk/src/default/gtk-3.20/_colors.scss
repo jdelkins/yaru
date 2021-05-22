@@ -4,8 +4,8 @@
 
 $base_color: if($variant == 'light', #ffffff, lighten($jet, 6%));
 $text_color: if($variant == 'light', black, white);
-$bg_color: if($variant == 'light', #FAFAFA, lighten($jet, 8%));
-$fg_color: if($variant == 'light', $inkstone, $porcelain);
+$bg_color: if($variant == 'light', #FAFAFA, $tokyobg);
+$fg_color: if($variant == 'light', $inkstone, $tokyofg);
 
 $selected_fg_color: $primary_accent_fg_color;
 $selected_bg_color: if($variant == 'light', $primary_accent_bg_color, darken($primary_accent_bg_color, 4%));

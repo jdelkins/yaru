@@ -1,3 +1,9 @@
+# Yaru-tokyonight gtk theme
+
+Based on from [the official Ubuntu yaru theme suite](https://github.com/ubuntu/yaru.git).
+For now, includes only a theme for gtk. Colors based on
+[folke's tokynonight.nvim colorscheme](https://github.com/folke/tokyonight.nvim).
+
 # Ubuntu Yaru theme suite
 
 Snap build status: [![Build Status](https://travis-ci.org/ubuntu/yaru.svg?branch=master)](https://travis-ci.org/ubuntu/yaru)
