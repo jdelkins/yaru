@@ -8,7 +8,7 @@ $bg_color: if($variant == 'light', #FAFAFA, $tokyobg);
 $fg_color: if($variant == 'light', $inkstone, $tokyofg);
 
 $selected_fg_color: $primary_accent_fg_color;
-$selected_bg_color: if($variant == 'light', $primary_accent_bg_color, darken($primary_accent_bg_color, 4%));
+$selected_bg_color: if($variant == 'light', $primary_accent_bg_color, darken($primary_accent_bg_color, 10%));
 
 $selected_borders_color: if($variant== 'light', darken($selected_bg_color, 15%), darken($selected_bg_color, 30%));
 $borders_color: if($variant == 'light', darken($bg_color, 20%), darken($bg_color, 8%));
